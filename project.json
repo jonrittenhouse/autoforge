@@ -1,0 +1,15 @@
+{
+  "name": "i-want-to-sell-digital-art-without-manag",
+  "created": "2025-04-23T17-49-44-019Z",
+  "inputs": {
+    "painPoint": "I want to sell digital art without managing a full website",
+    "budget": 100,
+    "targetAudience": "creatives and hobbyists",
+    "deliveryPlatform": "web",
+    "timeline": "1 week"
+  },
+  "confidence": 90,
+  "risk": "Low",
+  "estimatedCost": 3,
+  "suggestedRetailPrice": 25
+}
